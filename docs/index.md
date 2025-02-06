@@ -1,7 +1,9 @@
 # Selamat Datang
 
-## Di Panduan Aplikasi TRACER STUDY SISWA
 
-<img src="images/image.png" width="40%">
+## **Di Panduan Aplikasi Tracer Study Siswa**
+
+
+<img src="images/study.png" width="40%">
 
 [Memulai](01.md){ .md-button .md-button--primary }
